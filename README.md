@@ -3,25 +3,25 @@
 ## Simple golang loger
 
 ### Info
-```go 
-xlogs.Info(...any)
+```go
+func xlogs.Info(...any)
 
 ```
 
 ### Warn
 ```go 
-xlogs.Warn(...any)
+func xlogs.Warn(...any)
 
 ```
 
 ### Error
 ```go 
-xlogs.Error(...any)
+func xlogs.Error(...any)
 
 ```
 
 ### Debug
 ```go 
-xlogs.Debug(...any)
+func xlogs.Debug(...any)
 
 ```
