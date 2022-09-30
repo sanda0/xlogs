@@ -2,6 +2,11 @@
 
 ## Simple golang loger
 
+### install
+```
+go get github.com/sanda0/xlogs
+```
+### Functions
 ### Info
 ```go
 func xlogs.Info(...any)
